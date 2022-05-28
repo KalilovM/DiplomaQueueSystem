@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "b918422d8bf38638",
+    "type": "split",
+    "children": [
+      {
+        "id": "32735d64a5da636d",
+        "type": "leaf",
+        "dimension": 47.062888735314445,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Deploying/Hosting.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7a576c7e716c8df7",
+        "type": "leaf",
+        "dimension": 52.937111264685555,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Анализ и обработка данных.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89eac03a07df0892",
+    "type": "split",
+    "children": [
+      {
+        "id": "991ace50229c3cd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17746130a0b8b799",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0b7f036b010e7fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 413
+  },
+  "right": {
+    "id": "faa6c9921eb6478b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff9007046d76b77a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a283ea8333832989",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Deploying/Hosting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "32735d64a5da636d",
+  "lastOpenFiles": [
+    "Deploying/Hosting.md",
+    "BackEnd/Django.md",
+    "FrontEnd/CSS.md",
+    "Анализ и обработка данных.md",
+    "Данные Халык Банка.md",
+    "RoadMap.md",
+    "Structure/Видение проекта.md",
+    "Materials/Итоговый вид обработанных данных.png",
+    "Materials/Итоговый вид столбцов со временем.png",
+    "Materials/Исходный вид объедененных данных.png"
+  ]
+}
