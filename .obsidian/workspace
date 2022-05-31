@@ -6,23 +6,10 @@
       {
         "id": "32735d64a5da636d",
         "type": "leaf",
-        "dimension": 47.062888735314445,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deploying/Hosting.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "7a576c7e716c8df7",
-        "type": "leaf",
-        "dimension": 52.937111264685555,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Анализ и обработка данных.md",
+            "file": "FrontEnd/HTML и CSS.md",
             "mode": "preview"
           }
         }
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deploying/Hosting.md",
+                "file": "FrontEnd/HTML и CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +88,15 @@
   },
   "active": "32735d64a5da636d",
   "lastOpenFiles": [
+    "FrontEnd/HTML и CSS.md",
+    "Structure/Видение проекта.md",
+    "Structure/RoadMap.md",
     "Deploying/Hosting.md",
     "BackEnd/Django.md",
-    "FrontEnd/CSS.md",
-    "Анализ и обработка данных.md",
-    "Данные Халык Банка.md",
-    "RoadMap.md",
-    "Structure/Видение проекта.md",
-    "Materials/Итоговый вид обработанных данных.png",
-    "Materials/Итоговый вид столбцов со временем.png",
-    "Materials/Исходный вид объедененных данных.png"
+    "Data analysis/Анализ и обработка данных.md",
+    "Data analysis/Данные Халык Банка.md",
+    "Materials/roadmap.jpg",
+    "Materials/Профиль.png",
+    "Materials/Тикет.png"
   ]
 }
